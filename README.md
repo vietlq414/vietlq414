@@ -1,4 +1,4 @@
-# <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 👋
+# <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/quoc-viet-le-5b6170122/">
@@ -38,8 +38,8 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **[Vietnam Cyberspace Security Technology](https://vncs.vn/)** 
- * Getting Started with Kubernetes and the DevSecOps
+👋 I'm currently working on **Security Consultant** at **[Vietnam Cyberspace Security Technology](https://vncs.vn/)** 
+👋 Getting Started with Kubernetes and the DevSecOps
 
 
 <!-- ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
