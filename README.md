@@ -14,14 +14,15 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://app.daily.dev/vietlq414" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/096fe33b918a4745b0078d79ace01bc5.png?r=qeo"
     />
   </a>
 </div>
+
 
 ## I am Le Quoc Viet
 
