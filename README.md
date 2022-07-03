@@ -21,11 +21,13 @@
  ```python
  class WhoAmI:
  	user = 'Le Quoc Viet'
-		hobbies = [
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
+    
+    hobbies = [
+            'Watching Anime',
+            'Reading Sci-Fi Novels'
+            'Being up all Night chasing that ONE BUG...'
+            'Loves a freshly brewed cup of tea'
+        ]
 	
 	def getCity():
 		return Hanoi_Vietnam()
@@ -36,13 +38,9 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
- 
-## I am Le Quoc Viet
+ * I'm currently working on 🔭 building **[Vietnam Cyberspace Security Technology](https://vncs.vn/)** 
+ * Getting Started with Kubernetes and the DevSecOps
 
-- 📬 Security Consultant at [Vietnam Cyberspace Security Technology](https://vncs.vn/)
-- 🎁 Loves a freshly brewed cup of tea
 
 <!-- ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/language.svg)
