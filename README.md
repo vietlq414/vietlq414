@@ -1,13 +1,7 @@
 # <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 👋
 
 <div align="left">
-  <a href="https://twitter.com/omBratteng">
-    <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ombratteng/">
+  <a href="https://www.linkedin.com/in/quoc-viet-le-5b6170122/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
@@ -23,7 +17,28 @@
   </a>
 </div>
 
-
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Le Quoc Viet'
+		hobbies = [
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Hanoi_Vietnam()
+	
+	def Ambitions():
+		DevSecOps()
+		Learnchinese()	
+ ```
+ 
+## Current Works
+ * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Getting Started with NodeJS and the MERN Stack!!
+ 
 ## I am Le Quoc Viet
 
 - 📬 Security Consultant at [Vietnam Cyberspace Security Technology](https://vncs.vn/)
