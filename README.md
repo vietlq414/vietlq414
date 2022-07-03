@@ -38,9 +38,8 @@
  ```
  
 ## Current Works
--👋 I'm currently working on **Security Consultant** at **[Vietnam Cyberspace Security Technology](https://vncs.vn/)**
-
--👋 Getting Started with Kubernetes and the DevSecOps
+👋 I'm currently working on **Security Consultant** at **[Vietnam Cyberspace Security Technology](https://vncs.vn/)**
+👋 Getting Started with Kubernetes and the DevSecOps
 
 
 <!-- ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
