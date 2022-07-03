@@ -29,7 +29,7 @@
 - 📬 Security Consultant at [Vietnam Cyberspace Security Technology](https://vncs.vn/)
 - 🎁 Loves a freshly brewed cup of tea
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
+<!-- ![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/language.svg)
 ![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
+![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg) -->
