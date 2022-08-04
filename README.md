@@ -8,9 +8,9 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/vietlq414" target="_blank">
+  <!-- <a href="https://app.daily.dev/vietlq414" target="_blank">
     <img src="https://api.daily.dev/devcards/096fe33b918a4745b0078d79ace01bc5.png?r=ekd" width="400" alt="Le Quoc Viet's Dev Card"/>
-  </a>
+  </a> -->
 </div>
 
  ## Who am I?
